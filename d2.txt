@@ -1,0 +1,1 @@
+console.writeln("welcome to the d2 file");
