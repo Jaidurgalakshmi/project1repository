@@ -1,1 +1,3 @@
 console.writeln("welcome to the d2 file");
+console.writeln("welcome to the github commands");
+
